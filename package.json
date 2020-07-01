@@ -2,6 +2,7 @@
   "name": "vuepress-theme-blogplus",
   "version": "1.0.0",
   "description": "Default blog plus theme for VuePress",
+  "private":false,
   "repository": {
     "type": "git",
     "url": "Dushusir/vuepress-theme-blogplus"
